@@ -8,6 +8,7 @@
   },
   "scripts": {
     "watch": "nodemon server.js",
-    "watch": "nodemon task1.js"
+    "watch": "nodemon task1.js",
+    "watch": "nodemon reqres.js"
   }
 }
